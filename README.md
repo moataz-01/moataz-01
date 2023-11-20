@@ -1,6 +1,7 @@
 <h1>Hi there 👋</h1>
-<h2>I'm a computer science student engaged in different technologies and I'm improving in software engineering daily.
-I enter the backend development field and I try to dig deeper into it and I am trying to do many projects to improve my skills and get better.</h2>
+<h2>An ambitious software engineer proficient in backend development with expertise in Laravel and PHP, with over 1 year of experience. Skilled in MVC
+architecture, OOP concepts, and database design. Possessing strong experience in building efficient and secure web applications using Laravel's
+Eloquent ORM, and MySQL databases.</h2>
 <h3>find me on:</h3>
 
 
