@@ -1,7 +1,5 @@
 <h1>Hi there 👋</h1>
-<h2>An ambitious software engineer proficient in backend development with expertise in Laravel and PHP, with over 1 year of experience. Skilled in MVC
-architecture, OOP concepts, and database design. Possessing strong experience in building efficient and secure web applications using Laravel's
-Eloquent ORM, and MySQL databases.</h2>
+<h2>Experienced Backend Developer skilled in Laravel, PHP, and RESTful API development. Proven ability to collaborate, design, implement, and optimize scalable and secure web applications. Currently learning DevOps tools to leverage automation.</h2>
 <h3>find me on:</h3>
 
 
